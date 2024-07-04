@@ -18,4 +18,5 @@ sudo dnf install xset
 sudo dnf install qt5ct
 sudo dnf install qalculate-gtk
 sudo dnf install btop
+sudo dnf install feh
 sudo dnf install network-manager-applet
