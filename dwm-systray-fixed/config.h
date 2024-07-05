@@ -72,7 +72,7 @@ static const Rule rules[] = {
         { "vlc",                NULL,       NULL,       1 << 0,            1,           -1 },
         { "firefox",            NULL,       NULL,       1 << 2,            0,           -1 },
         { "TelegramDesktop",    NULL,       NULL,       1 << 3,            0,           -1 },
-//        { "org.gnome.Nautilus", NULL,       NULL,       1 << 4,            1,           -1 },
+        { "Pcmanfm",            NULL,       NULL,       1 << 4,            1,           -1 },
         { "Code",               NULL,       NULL,       1 << 6,            0,           -1 },
         { "discord",            NULL,       NULL,       1 << 5,            0,           -1 },
         { "Virt-manager",       NULL,       NULL,       1 << 8,            0,           -1 },
