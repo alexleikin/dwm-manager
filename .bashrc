@@ -29,3 +29,5 @@ set -o vi
 export QT_QPA_PLATFORMTHEME=qt5ct
 #export QT_SCALE_FACTOR=1.3
 #export QT_FONT_DPI=96
+
+eval "$(starship init bash)"
