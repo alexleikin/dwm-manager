@@ -1,1 +1,5 @@
 sudo dnf -y groupinstall "Development Tools" xlib Xlib libX11-devel libXft libXft-devel libXinerama-devel copyq flameshot nitrogen pamixer ksh pasystray lxappearance pulseaudio-utils i3lock xset qt5ct qalculate-gtk btop feh pcmanfm network-manager-applet
+
+
+
+curl -sS https://starship.rs/install.sh | sh
