@@ -31,3 +31,4 @@ export QT_QPA_PLATFORMTHEME=qt5ct
 #export QT_FONT_DPI=96
 
 eval "$(starship init bash)"
+alias rm='trash -v'
