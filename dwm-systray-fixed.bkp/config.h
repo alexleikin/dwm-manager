@@ -62,7 +62,7 @@ static Sp scratchpads[] = {
 
 /* tagging */
 //static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
-static const char *tags[] = { "", "", "","", "", "", "󰨞", "", "", "" };
+static const char *tags[] = { "", "", "","", "", "", "󰨞", "", "", "" };
 static const Rule rules[] = {
 	/* xprop(1):
 	 *	WM_CLASS(STRING) = instance, class
@@ -75,7 +75,6 @@ static const Rule rules[] = {
         { "Pcmanfm",            NULL,       NULL,       1 << 4,            1,           -1 },
         { "Code",               NULL,       NULL,       1 << 6,            0,           -1 },
         { "discord",            NULL,       NULL,       1 << 5,            0,           -1 },
-        { "Brave-browser",      NULL,       NULL,       1 << 7,            0,           -1 },
         { "Virt-manager",       NULL,       NULL,       1 << 8,            0,           -1 },
         { "zoom",               NULL,       NULL,       1 << 9,            0,           -1 },
         { NULL,                 "spterm1",  NULL,       SPTAG(0),          1,           -1 },
